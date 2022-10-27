@@ -15,9 +15,8 @@ function setup() {
   
   createCanvas(390, 240);
   capture = createCapture(VIDEO);
-  capture.size(740, 840);
-  capture.position(100,-100);
-  capture.hide();
+  capture.size(1920, 1080);
+  capture.position(100,50);
 
   background(50);
   createCanvas(400, 400);
@@ -34,15 +33,15 @@ function windowResized()
 
  function draw(){
      
-     background(0);
+     background(255);
      clock();
    
      textSize(32)
-     fill(255)
+     fill(0)
      textAlign(LEFT, CENTER)
      text(curr_temp, 50, 50)
      textSize(18)
-     fill(255)
+     fill(0)
      textAlign(LEFT, CENTER)
      text(curr_short_forecast, 50, 80);
    
@@ -50,10 +49,11 @@ function windowResized()
 
 function clock()
 {
-  fill("orange");
+  fill("rgb(0,0,0)");
   textFont(clockFont);
-  textAlign(CENTER, CENTER);
+  textAlign(CENTER, TOP);
   textSize(width/12);
+  
   let Hour = hour();
   let min = minute();
   let secs = second()
@@ -61,5 +61,5 @@ function clock()
   if(min < 10)
     min = "0"+min
   Hour%=12
-  text(Hour+":"+min+":"+secs+noon, width/2, height/2); 
+  text(Hour+":"+min+":"+secs+noon, width/2, 65); 
 }
