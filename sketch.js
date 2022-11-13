@@ -246,7 +246,7 @@ function addImg() {
   img = createImg("news" + i + ".PNG");
   img.position(100,500);
   img.addClass("newsImg");
-  img.position(10, 425);
+  img.position(10, 1500);
   setTimeout(imgRemove, t);
   setTimeout(addImg, t);
 }
