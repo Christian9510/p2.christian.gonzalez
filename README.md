@@ -12,7 +12,7 @@
   3. Include the health-related information in your sketch: sleep, weight, exercises, and mirror time.
   
   1. Sketch of my interface</p> 
-  ![alt text](https://github.com/[Christian9510]/[p2.christian.gonzalez]/blob/[main]/mirror_sketch.png?raw=true)
+![mirror_sketch](https://user-images.githubusercontent.com/83322401/201550841-ec716455-507b-4eb7-ad5e-e81a783f7975.png)
  
   2. General Information: Calendar, News Feed, Clock, Weather, etc.
     a) Calendar - I have provided a calendar, implemented through a csv file, in which when you press the button, it will bring up my calendar from many rows and have        7 values (Date,Year,Workout,Classes,Eat,Freetime,Work).
