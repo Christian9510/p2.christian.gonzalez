@@ -17,16 +17,16 @@
  ![p2 christian_gonzalez](https://user-images.githubusercontent.com/83322401/201551466-ba922d2b-1a6c-4574-93b5-e3ea18cedc8f.gif)
 
   B. General Information: Calendar, News Feed, Clock, Weather, etc.
-    a) Calendar - I have provided a calendar, implemented through a csv file, in which when you press the button, it will bring up my calendar from many rows and have        7 values (Date,Year,Workout,Classes,Eat,Freetime,Work).
-    b) New Feed - The images in the lower left hand corner are from CNN, these images are cycling and will change every 10 seconds. The link are stored in a csv file          and when you click on the hyperlink, they will take you to the main news article under the specific categories.
-    c) Clock - A nice digital clock has been implemented in the top right hand corner, it is NOT military time, so when it hits PM, it will stay as 1-12, not 13-
-    d) Weather - The weather in the top left hand corner gives the current weather in your area, as the API used                                                              (https://api.weather.gov/gridpoints/LUB/48,32/forecast/hourly).
+     <br />a) Calendar - I have provided a calendar, implemented through a csv file, in which when you press the button, it will bring up my calendar from many rows and have        7 values (Date,Year,Workout,Classes,Eat,Freetime,Work).
+     <br />b) New Feed - The images in the lower left hand corner are from CNN, these images are cycling and will change every 10 seconds. The link are stored in a csv file          and when you click on the hyperlink, they will take you to the main news article under the specific categories.
+     <br />c) Clock - A nice digital clock has been implemented in the top right hand corner, it is NOT military time, so when it hits PM, it will stay as 1-12, not 13-
+     <br />d) Weather - The weather in the top left hand corner gives the current weather in your area, as the API used                                                              (https://api.weather.gov/gridpoints/LUB/48,32/forecast/hourly).
   
   C. Include the health-related information in your sketch: sleep, weight, exercises, and mirror time.
-    a) Sleep - Sleep Time has been added within the Health-Related Information section.
-    b) Weight - Weight has been added within the Health-Related Information section.
-    c) Exercises - Exercises have been added as their own section, as checkboxes give the user a chance to check off what exercises they have completed for the day.
-    d) Mirror Time - Mirror Time has been added as its own section, as a csv has been use to show this.
+    <br /> a) Sleep - Sleep Time has been added within the Health-Related Information section.
+    <br /> b) Weight - Weight has been added within the Health-Related Information section.
+    <br /> c) Exercises - Exercises have been added as their own section, as checkboxes give the user a chance to check off what exercises they have completed for the day.
+     <br />d) Mirror Time - Mirror Time has been added as its own section, as a csv has been use to show this.
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
