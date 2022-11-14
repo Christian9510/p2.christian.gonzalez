@@ -70,7 +70,7 @@
   B. Provide your github report page and 2-minute presentation video.
     a) My github report page is this readme file, as combining the report along with the mirror had issues like repositioning my designs/graphics.
     b) My 2-minute presentation video is below:
-
+[YouTube Presentation Video Link](https://youtu.be/um76hHM0Ki0)
   
   C. Please pay attention on the overal design and layout, and usability of your final interface.
     a) All designs, layouts, and usabilities within this mirror have been tested and paid attention.
