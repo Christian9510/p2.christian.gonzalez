@@ -12,6 +12,7 @@
   3. Include the health-related information in your sketch: sleep, weight, exercises, and mirror time.
   
   A. Sketch of my interface
+  
 ![mirror_sketch](https://user-images.githubusercontent.com/83322401/201550841-ec716455-507b-4eb7-ad5e-e81a783f7975.png)
  A.1 GIF Image of my interface
  ![p2 christian_gonzalez](https://user-images.githubusercontent.com/83322401/201551466-ba922d2b-1a6c-4574-93b5-e3ea18cedc8f.gif)
