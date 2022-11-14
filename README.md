@@ -11,9 +11,11 @@
   2. Include the general information in your sketch: personalized calendar, news feed, text messages, social feed items, clock, and weather.
   3. Include the health-related information in your sketch: sleep, weight, exercises, and mirror time.
   
-  A. Sketch of my interface</p> 
+  A. Sketch of my interface
 ![mirror_sketch](https://user-images.githubusercontent.com/83322401/201550841-ec716455-507b-4eb7-ad5e-e81a783f7975.png)
- 
+ A.1 GIF Image of my interface
+ ![p2 christian_gonzalez](https://user-images.githubusercontent.com/83322401/201551466-ba922d2b-1a6c-4574-93b5-e3ea18cedc8f.gif)
+
   B. General Information: Calendar, News Feed, Clock, Weather, etc.
     a) Calendar - I have provided a calendar, implemented through a csv file, in which when you press the button, it will bring up my calendar from many rows and have        7 values (Date,Year,Workout,Classes,Eat,Freetime,Work).
     b) New Feed - The images in the lower left hand corner are from CNN, these images are cycling and will change every 10 seconds. The link are stored in a csv file          and when you click on the hyperlink, they will take you to the main news article under the specific categories.
