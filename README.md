@@ -38,7 +38,7 @@
   A. Implement your Sketch in Processing or p5.js
     a) The following sketch has been implemented in p5.js.
 
-  C. Implement the general information : personalized calendar (from a csv or json file), news feed (from a csv or json file), current clock, and local weather (from a      file or api).
+  B. Implement the general information : personalized calendar (from a csv or json file), news feed (from a csv or json file), current clock, and local weather (from a      file or api).
      <br />a) Personalized Calendar: Implemented by CSV file.
      <br />b) News Feed: Implemented by CSV file.
      <br />c) Current Clock: Implemented through code.
