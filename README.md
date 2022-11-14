@@ -39,16 +39,16 @@
     a) The following sketch has been implemented in p5.js.
 
   C. Implement the general information : personalized calendar (from a csv or json file), news feed (from a csv or json file), current clock, and local weather (from a      file or api).
-    a) Personalized Calendar: Implemented by CSV file.
-    b) News Feed: Implemented by CSV file.
-    c) Current Clock: Implemented through code.
-    d) Local Weather: Implemented by API.
+     <br />a) Personalized Calendar: Implemented by CSV file.
+     <br />b) News Feed: Implemented by CSV file.
+     <br />c) Current Clock: Implemented through code.
+     <br />d) Local Weather: Implemented by API.
  
   C. Implement the health-related information in your sketch (select one of these): sleep, weight, exercises, and mirror time (from a csv or json file).
-    a) Sleep: Implemented in Health-Related Information section.
-    b) Weight: Implemented in Health-Related Information section.
-    c) Exercises: Implemented in Exercises section.
-    d) Mirror Time: Implemented with CSV file.
+     <br />a) Sleep: Implemented in Health-Related Information section.
+     <br />b) Weight: Implemented in Health-Related Information section.
+     <br />c) Exercises: Implemented in Exercises section.
+     <br />d) Mirror Time: Implemented with CSV file.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -58,10 +58,10 @@
   3. Please pay attention on the overal design and layout, and usability of your final interface.
 
   Some advanced features include:
-    a) Allow the user to customize the display - e.g. the widget sizes and locations (drag and drop items in the desired location on the screen).
-    b) Voice command: play music when you are brushing your teeth or in the shower - how do you control the playlist?
-    c) Act as a light source (with different possible colours).
-    d) Your imagination.
+     <br />a) Allow the user to customize the display - e.g. the widget sizes and locations (drag and drop items in the desired location on the screen).
+     <br />b) Voice command: play music when you are brushing your teeth or in the shower - how do you control the playlist?
+     <br />c) Act as a light source (with different possible colours).
+     <br /> d) Your imagination.
 
   A. Implement one of the advanced features.
     a) An advanced feature I have included was the drag and drop items in desired locations, as the user can drag and drop the lego man's head onto the body.
